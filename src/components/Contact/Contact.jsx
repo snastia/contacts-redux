@@ -4,7 +4,7 @@ export const Contact = ({contact}) => {
         <p>
            {contact.name}: {contact.num}  
         </p>
-         <button type="button"></button>
+         <button type="button">Видалити</button>
         </li>
     )
 }
